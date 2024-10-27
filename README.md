@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pandaevan
-- 👀 I’m interested in all things technology
-- 🌱 I’m currently learning C# and unity game engine
-- 💞️ I’m looking to collaborate on C# game development
-- 📫 How to reach me evantwilds@gmail.com
-- if you ever have a suggestion or want to collaborate contact me
-<!---
-pandaevan/pandaevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- HELLO WORLD I'm pandaevan
+- I make video games and stuff
+- hikari3.ch is pretty awesome you should use it
+- :3
+- if for some reason you wanted to contact me here's my email evanwilds715@gmail.com
